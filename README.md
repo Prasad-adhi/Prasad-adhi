@@ -4,7 +4,7 @@ If you have reached here, Welcome. My name is Prasad Adhiyaman and I am pleased 
 - 🌱 I’m currently pursuing Masters in Computer Science at the University of Massachusetts, Amherst
 - 🔭 I’m proficient in software development along with artificial intelligence in the realms of computer vision
 - ⚡ I have worked on numerous projects with respect to both the fields and interested to work more.
-- 😄 If you are interested feel free to go through some of my projects and visit my <a href="https://prasadadhi08.wixsite.com/portfolio">website</a> and follow me on <a href="https://www.linkedin.com/in/prasad-adhiyaman/">Linkedin</a>to know more information about my recent activities.
+- 😄 If you are interested feel free to go through some of my projects and visit my <a href="https://prasadadhi08.wixsite.com/portfolio">website</a> and follow me on <a href="https://www.linkedin.com/in/prasad-adhiyaman/">Linkedin</a> to know more information about my recent activities.
 - 😁 See you soon
 
 
