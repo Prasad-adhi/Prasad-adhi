@@ -10,7 +10,7 @@ If you have reached here, Welcome. My name is Prasad Adhiyaman and I am pleased 
 
 ![](https://komarev.com/ghpvc/?username=Prasad-adhi)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-adhi&layout=compact&theme=radical&langs_count=20&hide=ShaderLab,LLVM,Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-adhi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook)
 
 
 ![Prasad Adhiyaman github stats](https://github-readme-stats.vercel.app/api?username=Prasad-adhi&show_icons=true&theme=radical)
