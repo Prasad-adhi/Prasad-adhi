@@ -26,7 +26,7 @@ If you have reached here, Welcome. My name is Prasad Adhiyaman and I am pleased 
 [![My Skills](https://skillicons.dev/icons?i=spring,ts,react,nodejs,graphql,flask,django,tailwind)](https://skillicons.dev)
 
 ### Tools and Technologies
-[![My Skills](https://skillicons.dev/icons?i=docker,postman,aws.jenkins,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,aws,jenkins,git,github,githubactions)](https://skillicons.dev)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase)](https://skillicons.dev)
